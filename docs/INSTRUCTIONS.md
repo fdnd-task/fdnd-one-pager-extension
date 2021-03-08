@@ -1,4 +1,4 @@
-# FDND huisstijl living styleguid
+# FDND huisstijl living styleguide
 
 Voor de opdracht FDND-huisstijl-living-styleguide ga je van de huisstijl van FDND een living styleguide maken.
 
