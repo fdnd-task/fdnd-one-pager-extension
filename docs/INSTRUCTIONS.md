@@ -1,18 +1,19 @@
-# {Naam}
+# FDND huisstijl living styleguid
 
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+Voor de opdracht FDND-huisstijl-living-styleguid ga je van de huisstijl van CMD een living styleguide maken.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "titel van de sprint}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Leertaak: Maak een one-page actie site op basis van een bestaande huisstijl.
+Deze leertaak hoort bij sprint 4 "The Campaign".
+Dit is een zelfstandige taak.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
+Living styleguide met atomic design.
+Componenten in HTML, CSS en (beetje) JS maken op basis van de FDND huisstijl. Zoals artikelen, een responsive menu, ordered en un-ordered lijst items lijst items. Formulier elementen met states animaties. 
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
