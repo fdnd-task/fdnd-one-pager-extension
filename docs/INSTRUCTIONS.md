@@ -1,6 +1,6 @@
 # FDND huisstijl living styleguid
 
-Voor de opdracht FDND-huisstijl-living-styleguid ga je van de huisstijl van CMD een living styleguide maken.
+Voor de opdracht FDND-huisstijl-living-styleguide ga je van de huisstijl van CMD een living styleguide maken.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
@@ -12,8 +12,8 @@ Dit is een zelfstandige taak.
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-Living styleguide met atomic design.
-Componenten in HTML, CSS en (beetje) JS maken op basis van de FDND huisstijl. Zoals artikelen, een responsive menu, ordered en un-ordered lijst items lijst items. Formulier elementen met states animaties. 
+Living styleguide maken met atomic design componenten.
+Maak componenten in HTML, CSS en (beetje) JS maken op basis van de FDND huisstijl. Zoals artikelen, een responsive menu, ordered en un-ordered lijst items. Formulier elementen met states animaties. 
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
