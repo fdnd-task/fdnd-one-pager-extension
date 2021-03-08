@@ -1,13 +1,13 @@
 # FDND huisstijl living styleguid
 
-Voor de opdracht FDND-huisstijl-living-styleguide ga je van de huisstijl van CMD een living styleguide maken.
+Voor de opdracht FDND-huisstijl-living-styleguide ga je van de huisstijl van FDND een living styleguide maken.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
 Leertaak: Maak een one-page actie site op basis van een bestaande huisstijl.
 Deze leertaak hoort bij sprint 4 "The Campaign".
-Dit is een zelfstandige taak.
+Dit is een uitbreidingstaak die je individueel uitvoert voor FDND.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
